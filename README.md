@@ -1,7 +1,5 @@
 # COVID Chest CTs
 
-Augmenting dataset with generative methods and performing binary classification. 
-
 The purpose of this project was to recreate results from the following paper:
 
 + Loey, M., Manogaran, G. & Khalifa, N.E.M. A deep transfer learning model with classical data augmentation and CGAN to detect COVID-19 from chest CT radiography digital images. Neural Comput & Applic (2020). https://doi.org/10.1007/s00521-020-05437-x
@@ -21,4 +19,9 @@ These pyhon notebooks contain the following:
 * Notebook 2) A simple implemenetation of a Variational Autoencoder. 
 * Notebook 2b) The same as notebook 2, but this was used for training on Kaggle and includes output cells.
 * Notebook 3) Sampling from the VAE model utilizing the testing dataset.
+
+## Authors
+
+Alexander Kahanek -- GitHub @ Alexander-Kahanek
+Luke Strgar -- GitHub @ lstrgar
 
