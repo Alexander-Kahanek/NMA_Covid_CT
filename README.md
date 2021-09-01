@@ -23,5 +23,5 @@ These pyhon notebooks contain the following:
 ## Authors
 
 Alexander Kahanek -- GitHub @ Alexander-Kahanek
-Luke Strgar -- GitHub @ lstrgar
 
+Luke Strgar -- GitHub @ lstrgar
